@@ -1,0 +1,37 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "prismformfactors"
+version = "1.0.0"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "scipy",
+    "pylebedev",
+    "sasmodels",
+    ]
+requires-python = ">= 3.10"
+authors =[
+    {name = "Marianne Impéror", email = "marianne.imperor@universite-paris-saclay.fr"},
+    {name = "Jules Marcone", email = "jules.marcone@universite-paris-saclay.fr"},
+]
+#maintainers = []
+description = "Simulate 1-D and 2-D scattering form factors of prismatic objects"
+readme = "README.md"
+license = { file = "LICENSE" }
+keywords = ["Form factor","Scattering","SAXS","SANS","SAS","Small angle scattering"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Physics",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+[project.urls]
+Repository = "https://github.com/jules-marcone/prismformfactors"
+Issues = "https://github.com/jules-marcone/prismformfactors/issues"
