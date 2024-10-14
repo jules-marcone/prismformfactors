@@ -23,4 +23,4 @@ Link:
     https://doi.org/10.1107/S1600576721001710
 
 - Alternate reading:
-    Rajouter l'article quand il sera publié
+    Article currently under review.
