@@ -10,7 +10,11 @@ pip install prismformfactors
 as the package is available on PyPI (https://pypi.org/project/prismformfactors).
 
 ### Example
+add .dat file 
 
+and jupyter notebook (with many comments)
+
+make the modification about $\sigma_L$ and $\sigma_w$ in vizualize
 
 
 ### References
