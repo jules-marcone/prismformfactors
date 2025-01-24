@@ -1,8 +1,13 @@
-- This package allows the simulation of the scattering intensity and form factor of right prisms with a regular polygon as a cross section with any number n of sides. Both 1D intensity profile and 2D images can be simulated.
+- This package allows the simulation of the scattering intensity and form factor of particles in the shape of a right prism with a regular polygon cross section with any number of sides. Both 1D intensity profile and 2D images can be simulated.
+- Parameters for describing the shape are the length $L$ of the right prism, the number $n$ of the regular polygon cross section and the edge length $E$ of the polygon. Alternatively, the average radius $R_{ave}$ can be used instead of $E$.
 - It can also be used with the ipywidgets package to manually fit experimental data with the provided models.
 
 ### Installation
-Package installation can be done from PyPI at https://pypi.org/project/prismformfactors.
+Package installation can be done using pip command: 
+```
+pip install prismformfactors
+```
+as the package is available on PyPI (https://pypi.org/project/prismformfactors).
 
 ### Example
 
