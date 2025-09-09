@@ -1,1 +1,1 @@
-__all__ = ["average","functions","control","dataload","polydispersity","rotation","formfactor","wuttke2d","visualize"]
+__all__ = ["average","functions","controls","dataload","polydispersity","rotation","formfactor","wuttke2d","visualize"]
