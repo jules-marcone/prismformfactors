@@ -2,7 +2,7 @@ from prismformfactors import functions
 from prismformfactors import wuttke2d
 import numpy as np
 from matplotlib import pyplot as plt
-from prismformfactors import control as ctrl
+from prismformfactors import controls as ctrl
 from prismformfactors import formfactor
 from prismformfactors import average as ave
 from prismformfactors import dataload as data
