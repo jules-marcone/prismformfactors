@@ -1,6 +1,6 @@
 from pylebedev import PyLebedev
 import numpy as np
-from prismformfactors import control as ctrl
+from prismformfactors import controls as ctrl
 from prismformfactors import formfactor
 from matplotlib import pyplot as plt
 from prismformfactors import functions
