@@ -19,10 +19,11 @@ make the modification about $\sigma_L$ and $\sigma_w$ in vizualize
 
 ### References
 - Jules Marcone, Jaime Gabriel Trazo, Rahul Nag, Claire Goldmann, Nicolas
-Ratel-Ramond, Cyrille Hamon and Marianne Imperor-Clerc, "Form factor of prismatic particles for Small Angle Scattering analysis", Journal of Applied Crystallography (2025)
+Ratel-Ramond, Cyrille Hamon and Marianne Imperor-Clerc (2025)
+[J. Marcone et al. , Form factor of prismatic particles for small-angle scattering analysis, JAC 2025](https://doi.org/10.1107/S1600576725000676)
 
 - Theory behind code:
-    Wuttke "Numerically stable form factor of any polygon and polyhedron." Journal of Applied Crystallography 54.2 (2021): 580-587
+    [Wuttke "Numerically stable form factor of any polygon and polyhedron." Journal of Applied Crystallography 54.2 (2021): 580-587]
     https://doi.org/10.1107/S1600576721001710
 
 Created on September 5th, 2024 and revised on January 24th, 2025
